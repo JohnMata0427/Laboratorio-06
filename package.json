@@ -1,0 +1,13 @@
+{
+  "name": "laboratorio-06",
+  "version": "1.0.0",
+  "main": "storage-modules.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
